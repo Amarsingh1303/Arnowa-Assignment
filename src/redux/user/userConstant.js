@@ -1,0 +1,1 @@
+export const USER_ADD_DETAILS = "USER_ADD_DETAILS";
